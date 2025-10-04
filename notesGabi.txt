@@ -1,1 +1,12 @@
-lulu xibiu
+Comandos c#
+
+| Comando              | O que faz                                         |
+| -------------------- | ------------------------------------------------- |
+| `dotnet new`         | Cria um novo projeto                              |
+| `dotnet build`       | Compila o projeto                                 |
+| `dotnet run`         | Roda o programa                                   |
+| `dotnet restore`     | Baixa dependências do projeto                     |
+| `dotnet add package` | Instala bibliotecas externas (como o npm install) |
+
+
+
